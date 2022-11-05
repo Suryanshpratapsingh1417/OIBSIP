@@ -1,0 +1,91 @@
+<html>
+<head>
+	<style>
+
+		body {
+			background-color: palevioletred;
+			margin: 20%;
+        }
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px white;
+			font-size: 7vh;
+		}
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+		#caption {
+			font-size: 17px;
+			font-family: Gill Sans;
+			color: black;
+		}
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			box-shadow: 20px 20px 20px yellowgreen;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+		h1.title-lata {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		<h1 id="title">
+			MAHARANA PRATAP 
+		</h1>
+
+		<div id="img">
+
+			<img src="C:\Users\dell\Desktop\maharana-pratap-647_050916105600.webp" height="400" width="400" id="image"
+				alt="Error Loading Image">
+		</div>
+
+		<div id="tribute-data">
+
+			<!--Achievements and other
+				details of the person-->
+			<h1 class="title-lata">
+				About the Legend
+			</h1>
+
+			
+
+<p>
+				☛ Maharana Pratap (c. 9 May 1540 – 19 January 1597), was a king of Mewar from the Sisodia dynasty. Pratap became a folk hero for his military resistance against the expansionism of the Mughal 
+				Empire under Akbar through guerrilla warfare which proved inspirational for later rebels against Mughals including Shivaji..<br><br>
+				☛ Maharana Pratap is revered as one of the strongest warriors India has ever seen.
+				 Standing at 7 feet 5 inches, he would carry a 80-kilogram spear and two swords weighing around 
+				 208 kilograms in total. He would also wear an armour weighing 72 kilograms<br><br>
+				☛ Before fighting the Mughals, Pratap had to face the wrath of his domestic adversaries. By the time of his reign, almost all Rajput dynasties had surrendered to Akbar and had become members of his council. 
+				Akbar had sent six diplomatic missions to Pratap to create a peaceful alliance between the two mighty rulers<br><br>
+				☛ Pratap had rebuilt his capital in the city of Chavand, around 60 kilometres south of Udaipur and spent the rest of his life there.
+				 Because of his fight for freedom against the Mughals, Maharana Pratap is widely regarded as India's first native freedom fighter.
+				<br><br>
+			</p>
+
+
+		</div>
+		<br>
+		 For more information,
+		check out
+		<a id="tribute-link" href="#">
+			<b>Mahrana Pratap</b> on Wikipedia.
+	</main>
+</body>
+
+</html>
